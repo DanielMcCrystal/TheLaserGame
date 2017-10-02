@@ -1,0 +1,17 @@
+LIST OF ALL THE TEXTURES NEEDED FOR A COMPLETE THEME
+====================================================
+
+-2 Lasers
+-2 Beams
+-2 Mirrors
+-2 Splitters
+-2 Portals
+-2 Magnifiers
+-2 Health bar outlines
+-2 Health bars
+
+-2 Tiles
+-Hovered
+-Selected
+
+-Sidebar (with box) (200 x DIMENSION_Y * 100)
